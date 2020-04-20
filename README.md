@@ -97,3 +97,12 @@ require("./main.css")
 </body>
 
  
+# Better Errors and Loaders for HTML & Images
+
+mv dist/index.html src/
+
+
+npm install html-loader extract-loader file-loader
+
+
+
